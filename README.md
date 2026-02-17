@@ -1,4 +1,8 @@
-# XC8-EEPROMIntern_Library
-Basic library for control of memory EEPROM intern of PIC microcontroller
+# XC8-18F25K22-Peripheral_Library
 
-Demo example: https://mrchunckuee.blogspot.com/2019/11/mplab-x-xc8-uso-de-la-memoria-eeprom.html
+Repository with libraries for microcontroller peripherals.
+
+The content includes only the libraries; if you need an example of each one, I recommend checking my blog or consulting the example repository.
+
+- Blog info: https://mrchunckuee.blogspot.com/2022/10/indice-pic18f25k22-con-xc8.html
+- Examples repository: https://github.com/MrChunckuee-Electronics/PIC18F25K22-XC8_Examples
