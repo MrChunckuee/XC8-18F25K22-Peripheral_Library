@@ -1,4 +1,4 @@
-# XC8-18F25K22-Peripheral_Library
+# XC8-PIC18F25K22-Peripheral_Library
 
 Repository with libraries for microcontroller peripherals. Each library has the ".c" and ".h" files with the name of the peripheral, It also has the functions to write an n number of bytes.
 
