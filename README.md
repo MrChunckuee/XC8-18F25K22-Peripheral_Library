@@ -5,6 +5,7 @@ Repository with libraries for microcontroller peripherals. Each library has the 
 ## List of peripherals:
 - ***eeprom:*** It contains the functions for writing and reading the internal EEPROM.
 - ***INTERRUPTManager:*** This contains the functions to initialize and handle low and high priority interrupts.
+- ***i2c2:*** This contains the functions to establish communication with i2c2.
 - ***uart1:*** This contains the functions for writing and reading data through uart1 using interrupts. It is important to add INTERRUPManager to handle the Tx and Rx functions.
 
 ## Project Structure
